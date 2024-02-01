@@ -1,0 +1,116 @@
+body {
+    font-family: sans-serif;
+    background-color: #ADDDF5;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #F2E9AE;
+    color: #AC9A6C;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-right: 20px;
+    height: 23.5px;
+}
+.logo {
+    margin-left: 20px;
+}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: #6296F5;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: #6296F5;
+    font-size: 36px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 32.5px;
+    width: 400px;
+    margin: 30px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #F0F2AE;
+    color: #A4A677;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left: 55px;
+    border-radius: 15px;
+}
+.article-but2 {
+    text-decoration: none;
+    background-color: #CBF58C;
+    color: #8BA860;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-left: 55px;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #4281F5;
+    padding: 35px;
+    display: flex;  
+}
+
+.facebook {
+    margin-right: 185px;
+}
+
+footer p {
+    font-size: 24px;
+}
+.titles {
+    text-align: center;
+}
+.photos {
+    border: 4px solid #F0F2AE;
+    border-radius: 20px;
+}
+.photos2 {
+    border: 4px solid #CBF58C;
+    border-radius: 20px;
+}
+.smalltitles {
+    text-align: center;
+}
+.offer {
+    color: white;
+}
