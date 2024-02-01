@@ -8,6 +8,7 @@ header {
     padding: ;
     margin-bottom: 20px;
     display: flex;
+    align-items: center;
 }
 
 .button {
@@ -52,8 +53,9 @@ p {
 .info {
     flex-wrap: wrap;
     width: 1100px;
-    margin: 0px;
+    margin: 0px auto 0px auto;
     display: flex;
+    max-width: 1100px;
 }
 
 article {
@@ -61,6 +63,7 @@ article {
     padding: 32.5px;
     width: 400px;
     margin: 30px;
+    display: block;
 }
 
 .article-but {
