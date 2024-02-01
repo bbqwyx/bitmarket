@@ -83,6 +83,9 @@ article {
     margin-left: 55px;
     border-radius: 15px;
 }
+.marginleft {
+    margin-left: 60px;
+}
 
 footer {
     background-color: #4281F5;
