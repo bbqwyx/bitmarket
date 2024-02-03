@@ -98,8 +98,11 @@ footer {
 
 .facebook {
     margin-right: 185px;
+    border-radius:30px;
 }
-
+instagram {
+ border-radius:30px;   
+}
 footer p {
     font-size: 24px;
 }
